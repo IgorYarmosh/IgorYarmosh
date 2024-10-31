@@ -45,7 +45,7 @@ How to contact me:  [![Telegram Badge](https://img.shields.io/badge/-yarmoshigor
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
