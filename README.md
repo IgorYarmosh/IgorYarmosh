@@ -12,7 +12,7 @@ How to contact me:  [![Telegram Badge](https://img.shields.io/badge/-yarmoshigor
 
 ---
 
-### 🤝 Social Media::
+### 🤝 Social Media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/igor-yarmosh-326040291/" target="_blank">
